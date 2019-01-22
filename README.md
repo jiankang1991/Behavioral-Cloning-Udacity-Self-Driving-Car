@@ -94,9 +94,10 @@ The model was trained and validated on different data sets to ensure that the mo
 Here are the recorded train and validation loss during training. Overfitting is not observed. 
 
 ![alt text](./loss.svg)
+*training loss*
 
 ![alt text](./val_loss.svg)
-
+*validation loss*
 
 #### 3. Model hyperparameter for training 
 
